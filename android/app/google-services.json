@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839058303823",
+    "project_id": "student-attendence-erp",
+    "storage_bucket": "student-attendence-erp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839058303823:android:fa2c98402062ea1220f33a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final_exam_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruhTI2rLw9fkvUPEH5WX-lArZ5zh-YUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
